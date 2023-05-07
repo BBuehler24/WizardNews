@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start:dev": "nodemon app.js",
+    "start:dev": "npm i && npm run build",
     "start": "node app.js"
   },
   "keywords": [],
