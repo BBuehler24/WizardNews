@@ -4,7 +4,8 @@
   "description": "",
   "scripts": {
     "start:dev": "npm i && npm run build",
-    "start": "node app.js"
+    "start": "node app.js",
+    "build": "webpack"
   },
   "keywords": [],
   "author": "",
